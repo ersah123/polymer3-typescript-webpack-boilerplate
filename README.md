@@ -10,6 +10,10 @@
 
 ### Setup
 
+### Installing Dependencies
+
+    npm install
+
 ### Start the development server
 
 This command serves the app at `http://127.0.0.1:8080` and provides basic URL
