@@ -1,0 +1,13 @@
+{
+	"compilerOptions": {
+		"target": "es2015",
+		"allowJs": true,
+		"allowSyntheticDefaultImports": true,
+		"module": "es6",
+		"experimentalDecorators": true,
+		"moduleResolution": "node",
+		"sourceMap": true
+	},
+	"include": ["src/**/*"],
+	"exclude": ["node_modules"]
+}
