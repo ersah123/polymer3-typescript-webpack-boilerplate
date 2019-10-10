@@ -53,7 +53,7 @@ module.exports = {
 				ignore: [".*"]
 			},
 			{
-				from: path.resolve(__dirname, "./images"),
+				from: path.resolve(__dirname, "./src/images"),
 				to: "images",
 				ignore: [".*"]
 			},
